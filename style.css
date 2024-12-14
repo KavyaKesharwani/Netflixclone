@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+body{
+background:black;
+color: white;
+}
+.c1{
+    background-color: red;
+    color: white;
+    font-size: 1.125rem;
+    margin-left: 0.5rem;
+    border-radius: 5%;
+    padding: 1%;
+}
+.c2{
+    font-size: 1.125rem;
+    background-color: black;
+    border-radius: 6%;
+    padding: 1%;
+}
+.logo{
+    margin-top: 1%;
+    margin-left: 6%;
+}
+.main{
+    margin-top: 15%
+}
+.language{
+    margin-top: 1%;
+    margin-left: 70%;
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    padding: 1%;
+}
+.header{
+    display: flex;
+}
+.sign{
+    margin-left: 1%;
+    margin-top: 1%;
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    padding: 1%;
+}
