@@ -18,9 +18,10 @@ color: white;
 }
 .c2{
     font-size: 1.125rem;
-    background-color: black;
+    background-color: transparent;
     border-radius: 6%;
     padding: 1%;
+
 }
 .logo{
     margin-top: 1%;
@@ -32,7 +33,7 @@ color: white;
 .language{
     margin-top: 1%;
     margin-left: 70%;
-    background-color: black;
+    background-color: transparent;
     color: white;
     border-radius: 10%;
     padding: 1%;
